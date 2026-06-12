@@ -88,20 +88,4 @@ Through this project, I gained experience in:
 * Create interactive dashboards
 * Improve data visualization design
 * Deploy analysis as a web application
-
----
-
-## Author
-
-**Gayathri Silva**
-
-Cyber Security Undergraduate
-
-* GitHub: [https://github.com/gayathri-silva](https://github.com/gayathri-silva)
-* LinkedIn: [https://www.linkedin.com/in/gayathri-silva-0a7b04372](https://www.linkedin.com/in/gayathri-silva-0a7b04372)
-
----
-
-## Repository Link
-
-[https://github.com/gayathri-silva/Data-Preprocessing-EDA-Visualization](https://github.com/gayathri-silva/Data-Preprocessing-EDA-Visualization)
+ 
